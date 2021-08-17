@@ -1,5 +1,6 @@
 body {
-    background-color: #c5c5c5;
+    /* background-color: #c5c5c5; */
+    background-image: url('./backdrop.jpg');
     /* display: flex;
     justify-content: center;
     align-items: center;
@@ -146,19 +147,91 @@ body {
     opacity: 0;
 }
 
-.obj_slide3 {
+.text_slide3 {
     opacity: 0;
 }
 
-.file_symbol_left {
+.node_left {
     opacity: 0;
 }
 
-.file_symbol_right {
+.node_right {
     opacity: 0;
 }
 
-.file_symbol_bottom {
+.node_top {
+    opacity: 0;
+}
+
+.obj_slide4 {
+    opacity: 0;
+}
+
+.obj_slide6 {
+    opacity: 0;
+}
+
+.obj_slide7 {
+    opacity: 0;
+}
+
+.user_requesting {
+    opacity: 0;
+}
+
+.decentralized_name {
+    opacity: 0;
+}
+
+.text_slide7 {
+    opacity: 0;
+}
+
+.text_slide8 {
+    opacity: 0;
+}
+
+.request_text {
+    opacity: 0;
+}
+
+.governance_text {
+    opacity: 0;
+}
+
+.decentralized_id_request {
+    opacity: 0;
+}
+
+.decentralized_id_text {
+    opacity: 0;
+}
+
+.decentralized_user {
+    opacity: 0;
+}
+
+.user_governance_left {
+    opacity: 0;
+}
+
+.user_governance_right {
+    opacity: 0;
+}
+
+.user_governance_top {
+    opacity: 0;
+}
+
+.did_left_node {
+    opacity: 0;
+}
+
+.did_right_node {
+    opacity: 0;
+}
+
+.did_top_node {
     opacity: 0;
 }
 
